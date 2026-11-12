@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/memberships.csv",
+    "sha256": "496b38a08e2162515175c74f96d306f8a6d5678bf695c78d1b9bb3b332114ed3",
+    "size_bytes": 148
+  },
+  {
+    "path": "fixtures/release-next-week.json",
+    "sha256": "0a2d880f5b697fe9d4ea5ad18e5f312b0e04f70b0fc65ced263d0558651e195d",
+    "size_bytes": 128
+  },
+  {
+    "path": "fixtures/release.json",
+    "sha256": "950ca60cbabe0237afb9956dadd95c046d08040a53dd73174f60d50b47c9d6ed",
+    "size_bytes": 411
+  }
+]

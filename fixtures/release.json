@@ -1,0 +1,28 @@
+{
+  "request_id": "r1",
+  "week": "2026-W45",
+  "snapshot": "sample-v1",
+  "term_epsilon": 2,
+  "epsilon_leaf": "3/10",
+  "epsilon_college": "1/5",
+  "public_course_priority": [
+    "c1",
+    "c2",
+    "c3"
+  ],
+  "public_course_sizes": {
+    "c1": 30,
+    "c2": 20,
+    "c3": 10
+  },
+  "hierarchy": {
+    "eng": [
+      "c1",
+      "c2"
+    ],
+    "arts": [
+      "c3"
+    ]
+  },
+  "query_schema_version": 1
+}
